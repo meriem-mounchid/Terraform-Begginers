@@ -1,4 +1,4 @@
-#Terraform "Hello, World" example
+# Terraform "Hello, World" example
 This folder contains a "Hello, World" example of a Terraform configuration. The configuration deploys a single server in an Amazon Web Services (AWS) account.
 
 For more info, please see the preface of Terraform: Up and Running.
@@ -9,7 +9,7 @@ You must have an Amazon Web Services (AWS) account.
 Please note that this code was written for Terraform 1.x.
 
 ### Quick start
-Please note that this example will deploy real resources into your AWS account. We have made every effort to ensure all the resources qualify for the AWS Free Tier, but we are not responsible for any charges you may incur.
+Please note that this example will deploy real resources into your AWS account.
 
 Configure your AWS access keys as environment variables:
 
