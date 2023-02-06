@@ -9,7 +9,7 @@ You must have an Amazon Web Services (AWS) account.
 Please note that this code was written for Terraform 1.x.
 
 ### Quick start
-Please note that this example will deploy real resources into your AWS account. We have made every effort to ensure all the resources qualify for the AWS Free Tier, but we are not responsible for any charges you may incur.
+Please note that this example will deploy real resources into your AWS account.
 
 Configure your AWS access keys as environment variables:
 
