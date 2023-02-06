@@ -1,4 +1,4 @@
-#Terraform "Hello, World" example
+# Terraform "Hello, World" example
 This folder contains a "Hello, World" example of a Terraform configuration. The configuration deploys a single server in an Amazon Web Services (AWS) account.
 
 For more info, please see the preface of Terraform: Up and Running.
